@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-8e27bcc6"],{"2c2f":function(t,e,n){},"7a0f":function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"loing"},[n("p",{staticClass:"mix-Box-head"},[t._v(t._s(t.titlee))])])},s=[],i={props:{titlee:{type:String,default:"神影影视"}}},l=i,a=(n("e4bd"),n("2877")),u=Object(a["a"])(l,c,s,!1,null,null,null);e["default"]=u.exports},e4bd:function(t,e,n){"use strict";n("2c2f")}}]);
+//# sourceMappingURL=chunk-8e27bcc6.1b541346.js.map
